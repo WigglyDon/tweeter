@@ -1,0 +1,31 @@
+body {
+  font-family: "Source Sans Pro", "sans-serif";
+}
+
+.navigation {
+  position: fixed;
+  top: 0;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+  color: #f4f1ec;
+  background-color: #a01f1f;
+  font-size: 24px;
+  height: 120px;
+  width: 100vw;
+}
+
+.logo {
+  font-family: "Bungee";
+  display: flex;
+  align-content: center;
+}
+
+.write-new-tweet {
+  display: flex;
+  justify-content: flex-end; 
+}
+
+.ddarrow {
+  display: flex;
+  justify-content: flex-end;
+}
