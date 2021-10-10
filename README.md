@@ -4,7 +4,9 @@ Tweeter is a simple, single-page Twitter clone.
 
 This project is going to undergo very heavy refactoring. I am not happy with this but have ran out of time.
 
-## Cappies
+## Screen Shots! :D
+!["Display of Main Content"](https://github.com/WigglyDonnie/tweeter/blob/master/docs/main-page.png?raw=true)
+!["Too many characters error message"](https://github.com/WigglyDonnie/tweeter/blob/master/docs/TooManyWords.png?raw=true)
 
 
 ## Getting Started
