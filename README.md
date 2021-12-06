@@ -1,8 +1,6 @@
 # Tweeter Project
 
-Tweeter is a simple, single-page Twitter clone.
-
-This project is going to undergo very heavy refactoring. I am not happy with this but have ran out of time.
+Tweeter is a single page app and was my first front-end project. It heavily utilizes Jquery for an interactive, and seamless single page experience!
 
 ## Screen Shots! :D
 !["Display of Main Content"](https://github.com/WigglyDonnie/tweeter/blob/master/docs/main-page.png?raw=true)
